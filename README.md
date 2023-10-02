@@ -1,8 +1,5 @@
-- 👋 Hi, I’m currently a CS student and an aspiring UI, UX, and Front-end Developer.
-- 👀 I’m interested in software development and ux design.
-- 🌱 I’m currently learning....
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m currently an an aspiring UI, UX, and Front-end Developer.
+- 👀 I’m interested in software development and UX design.
 
 <!---
 paulineona/paulineona is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
